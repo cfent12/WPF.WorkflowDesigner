@@ -17,3 +17,6 @@ System.Activities.Presentation.WorkflowDesigner를 표출하는 WPF 어플리케
 - MyEditorService.cs: IExpressionEditorService 인터페이스, 편집기의 생성과 삭제를 관리
 - MyExpressionEditorInstance.cs: IExpressionEditorInstance 인터페이스, 편집 UI용 UI를 구현
 - MainWindow.xaml: 재호스팅된 워크플로 애플리케이션에 IExpressionEditorService를 게시
+### 03.ExpressionTextBox
+- Custom Activity 프로젝트
+- inputBox 추가 Designer 예제
